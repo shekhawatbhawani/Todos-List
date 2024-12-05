@@ -1,10 +1,10 @@
 body {
   /* background-image: url("https://images.pexels.com/photos/28679853/pexels-photo-28679853/free-photo-of-overhead-view-of-person-holding-coffee-cup-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
-  background-image: url("https://images.pexels.com/photos/29376559/pexels-photo-29376559/free-photo-of-aerial-view-of-church-on-lake-bled-in-slovenia.jpeg");
-  background-size: cover;
+  background-image: url("https://images.pexels.com/photos/12914430/pexels-photo-12914430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  /* background-size: cover; */
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position:center;
   background-attachment: fixed;
   /* height: 95vh; */
   display: flex;
