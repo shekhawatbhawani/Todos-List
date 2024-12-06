@@ -37,8 +37,8 @@ button {
 }
 
 .add {
-  font-size: large;
-  padding: 10px;
+  font-size: 20px;
+  padding: 15px;
   font-weight: lighter;
 }
 
@@ -53,7 +53,7 @@ input {
   padding: 18px;
   border-radius: 10px;
   font-size: large;
-  font-size: 15px;
+  font-size: 20px;
 
 }
 ul {
@@ -73,7 +73,7 @@ span {
   background-color: rgb(254, 41, 41);
   border-radius: 5px;
   padding: 10px;
-  /* width: 20%; */
+  margin: 10px;
 }
 
 #delete:hover {
@@ -93,7 +93,7 @@ span {
   cursor: pointer;
 }
 li {
-  width: 90%;
+  /* width: 90%; */
   margin: 10px;
   background-color: white;
   list-style-type: none;
@@ -115,7 +115,7 @@ li {
   input-and-button {
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     margin: auto;
   }
   button.add,
